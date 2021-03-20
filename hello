@@ -1,1 +1,4 @@
 Very short  question:
+ Which data structures are applied when dealing with a recursive function?
+Ans: Recursion, is a function that calls itself based on a terminating condition, makes use of the stack. Using LIFO, a call to a recursive function saves the return address so that it knows how to return to the calling function after the call terminates.
+
